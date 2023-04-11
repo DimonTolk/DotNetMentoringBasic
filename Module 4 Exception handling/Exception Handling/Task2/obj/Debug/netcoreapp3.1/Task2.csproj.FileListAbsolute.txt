@@ -1,0 +1,9 @@
+C:\Mentoring\Module 4 Exception handling\Exception Handling\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+C:\Mentoring\Module 4 Exception handling\Exception Handling\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+C:\Mentoring\Module 4 Exception handling\Exception Handling\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+C:\Mentoring\Module 4 Exception handling\Exception Handling\Task2\obj\Debug\netcoreapp3.1\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mentoring\Module 4 Exception handling\Exception Handling\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+C:\Mentoring\Module 4 Exception handling\Exception Handling\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+C:\Mentoring\Module 4 Exception handling\Exception Handling\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.CoreCompileInputs.cache
+C:\Mentoring\Module 4 Exception handling\Exception Handling\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+C:\Mentoring\Module 4 Exception handling\Exception Handling\Task2\obj\Debug\netcoreapp3.1\Task2.pdb

@@ -1,0 +1,15 @@
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.BLL\bin\Debug\net5.0\Northwind.BLL.deps.json
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.BLL\bin\Debug\net5.0\Northwind.BLL.dll
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.BLL\bin\Debug\net5.0\ref\Northwind.BLL.dll
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.BLL\bin\Debug\net5.0\Northwind.BLL.pdb
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.BLL\bin\Debug\net5.0\Northwind.DataAccess.dll
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.BLL\bin\Debug\net5.0\Northwind.DataAccess.pdb
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.BLL\obj\Debug\net5.0\Northwind.BLL.csproj.AssemblyReference.cache
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.BLL\obj\Debug\net5.0\Northwind.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.BLL\obj\Debug\net5.0\Northwind.BLL.AssemblyInfoInputs.cache
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.BLL\obj\Debug\net5.0\Northwind.BLL.AssemblyInfo.cs
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.BLL\obj\Debug\net5.0\Northwind.BLL.csproj.CoreCompileInputs.cache
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.BLL\obj\Debug\net5.0\Northwind.BLL.csproj.CopyComplete
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.BLL\obj\Debug\net5.0\Northwind.BLL.dll
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.BLL\obj\Debug\net5.0\ref\Northwind.BLL.dll
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.BLL\obj\Debug\net5.0\Northwind.BLL.pdb

@@ -1,0 +1,10 @@
+C:\Mentoring\Module 2 Debugging\Debugging_Fundamentals\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+C:\Mentoring\Module 2 Debugging\Debugging_Fundamentals\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+C:\Mentoring\Module 2 Debugging\Debugging_Fundamentals\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+C:\Mentoring\Module 2 Debugging\Debugging_Fundamentals\Task1\obj\Debug\netcoreapp3.1\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mentoring\Module 2 Debugging\Debugging_Fundamentals\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+C:\Mentoring\Module 2 Debugging\Debugging_Fundamentals\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+C:\Mentoring\Module 2 Debugging\Debugging_Fundamentals\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+C:\Mentoring\Module 2 Debugging\Debugging_Fundamentals\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+C:\Mentoring\Module 2 Debugging\Debugging_Fundamentals\Task1\obj\Debug\netcoreapp3.1\Task1.pdb
+C:\Mentoring\Module 2 Debugging\Debugging_Fundamentals\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.AssemblyReference.cache

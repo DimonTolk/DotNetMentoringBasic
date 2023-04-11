@@ -1,0 +1,16 @@
+C:\Mentoring\Module 10 Serialization\BinarySerialization\XmlSerialization\bin\Debug\net5.0\XmlSerialization.exe
+C:\Mentoring\Module 10 Serialization\BinarySerialization\XmlSerialization\bin\Debug\net5.0\XmlSerialization.deps.json
+C:\Mentoring\Module 10 Serialization\BinarySerialization\XmlSerialization\bin\Debug\net5.0\XmlSerialization.runtimeconfig.json
+C:\Mentoring\Module 10 Serialization\BinarySerialization\XmlSerialization\bin\Debug\net5.0\XmlSerialization.runtimeconfig.dev.json
+C:\Mentoring\Module 10 Serialization\BinarySerialization\XmlSerialization\bin\Debug\net5.0\XmlSerialization.dll
+C:\Mentoring\Module 10 Serialization\BinarySerialization\XmlSerialization\bin\Debug\net5.0\ref\XmlSerialization.dll
+C:\Mentoring\Module 10 Serialization\BinarySerialization\XmlSerialization\bin\Debug\net5.0\XmlSerialization.pdb
+C:\Mentoring\Module 10 Serialization\BinarySerialization\XmlSerialization\obj\Debug\net5.0\XmlSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mentoring\Module 10 Serialization\BinarySerialization\XmlSerialization\obj\Debug\net5.0\XmlSerialization.AssemblyInfoInputs.cache
+C:\Mentoring\Module 10 Serialization\BinarySerialization\XmlSerialization\obj\Debug\net5.0\XmlSerialization.AssemblyInfo.cs
+C:\Mentoring\Module 10 Serialization\BinarySerialization\XmlSerialization\obj\Debug\net5.0\XmlSerialization.csproj.CoreCompileInputs.cache
+C:\Mentoring\Module 10 Serialization\BinarySerialization\XmlSerialization\obj\Debug\net5.0\XmlSerialization.dll
+C:\Mentoring\Module 10 Serialization\BinarySerialization\XmlSerialization\obj\Debug\net5.0\ref\XmlSerialization.dll
+C:\Mentoring\Module 10 Serialization\BinarySerialization\XmlSerialization\obj\Debug\net5.0\XmlSerialization.pdb
+C:\Mentoring\Module 10 Serialization\BinarySerialization\XmlSerialization\obj\Debug\net5.0\XmlSerialization.genruntimeconfig.cache
+C:\Mentoring\Module 10 Serialization\BinarySerialization\XmlSerialization\obj\Debug\net5.0\XmlSerialization.csproj.AssemblyReference.cache

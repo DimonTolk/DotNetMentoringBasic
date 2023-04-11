@@ -1,0 +1,11 @@
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigProvider\bin\Debug\net5.0\ConfigProvider.deps.json
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigProvider\bin\Debug\net5.0\ConfigProvider.dll
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigProvider\bin\Debug\net5.0\ref\ConfigProvider.dll
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigProvider\bin\Debug\net5.0\ConfigProvider.pdb
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigProvider\obj\Debug\net5.0\ConfigProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigProvider\obj\Debug\net5.0\ConfigProvider.AssemblyInfoInputs.cache
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigProvider\obj\Debug\net5.0\ConfigProvider.AssemblyInfo.cs
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigProvider\obj\Debug\net5.0\ConfigProvider.csproj.CoreCompileInputs.cache
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigProvider\obj\Debug\net5.0\ConfigProvider.dll
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigProvider\obj\Debug\net5.0\ref\ConfigProvider.dll
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigProvider\obj\Debug\net5.0\ConfigProvider.pdb

@@ -1,0 +1,16 @@
+C:\Mentoring\Module 10 Serialization\BinarySerialization\JsonSerialization\bin\Debug\net5.0\JsonSerialization.exe
+C:\Mentoring\Module 10 Serialization\BinarySerialization\JsonSerialization\bin\Debug\net5.0\JsonSerialization.deps.json
+C:\Mentoring\Module 10 Serialization\BinarySerialization\JsonSerialization\bin\Debug\net5.0\JsonSerialization.runtimeconfig.json
+C:\Mentoring\Module 10 Serialization\BinarySerialization\JsonSerialization\bin\Debug\net5.0\JsonSerialization.runtimeconfig.dev.json
+C:\Mentoring\Module 10 Serialization\BinarySerialization\JsonSerialization\bin\Debug\net5.0\JsonSerialization.dll
+C:\Mentoring\Module 10 Serialization\BinarySerialization\JsonSerialization\bin\Debug\net5.0\ref\JsonSerialization.dll
+C:\Mentoring\Module 10 Serialization\BinarySerialization\JsonSerialization\bin\Debug\net5.0\JsonSerialization.pdb
+C:\Mentoring\Module 10 Serialization\BinarySerialization\JsonSerialization\obj\Debug\net5.0\JsonSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mentoring\Module 10 Serialization\BinarySerialization\JsonSerialization\obj\Debug\net5.0\JsonSerialization.AssemblyInfoInputs.cache
+C:\Mentoring\Module 10 Serialization\BinarySerialization\JsonSerialization\obj\Debug\net5.0\JsonSerialization.AssemblyInfo.cs
+C:\Mentoring\Module 10 Serialization\BinarySerialization\JsonSerialization\obj\Debug\net5.0\JsonSerialization.csproj.CoreCompileInputs.cache
+C:\Mentoring\Module 10 Serialization\BinarySerialization\JsonSerialization\obj\Debug\net5.0\JsonSerialization.dll
+C:\Mentoring\Module 10 Serialization\BinarySerialization\JsonSerialization\obj\Debug\net5.0\ref\JsonSerialization.dll
+C:\Mentoring\Module 10 Serialization\BinarySerialization\JsonSerialization\obj\Debug\net5.0\JsonSerialization.pdb
+C:\Mentoring\Module 10 Serialization\BinarySerialization\JsonSerialization\obj\Debug\net5.0\JsonSerialization.genruntimeconfig.cache
+C:\Mentoring\Module 10 Serialization\BinarySerialization\JsonSerialization\obj\Debug\net5.0\JsonSerialization.csproj.AssemblyReference.cache

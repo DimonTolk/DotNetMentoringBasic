@@ -1,0 +1,9 @@
+C:\Mentoring\Module 8 SQL Fundamentals\Coding task\Database1\Database1\bin\Debug\Database1.dacpac
+C:\Mentoring\Module 8 SQL Fundamentals\Coding task\Database1\Database1\bin\Debug\Database1.dll
+C:\Mentoring\Module 8 SQL Fundamentals\Coding task\Database1\Database1\bin\Debug\Database1.pdb
+C:\Mentoring\Module 8 SQL Fundamentals\Coding task\Database1\Database1\obj\Debug\Database1.dll
+C:\Mentoring\Module 8 SQL Fundamentals\Coding task\Database1\Database1\obj\Debug\Database1.pdb
+C:\Mentoring\Module 8 SQL Fundamentals\Coding task\Database1\Database1\obj\Debug\Model.xml
+C:\Mentoring\Module 8 SQL Fundamentals\Coding task\Database1\Database1\obj\Debug\refactor.xml
+C:\Mentoring\Module 8 SQL Fundamentals\Coding task\Database1\Database1\obj\Debug\postdeploy.sql
+C:\Mentoring\Module 8 SQL Fundamentals\Coding task\Database1\Database1\obj\Debug\predeploy.sql

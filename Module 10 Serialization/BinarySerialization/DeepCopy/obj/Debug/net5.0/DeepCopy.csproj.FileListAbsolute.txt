@@ -1,0 +1,16 @@
+C:\Mentoring\Module 10 Serialization\BinarySerialization\DeepCopy\bin\Debug\net5.0\DeepCopy.exe
+C:\Mentoring\Module 10 Serialization\BinarySerialization\DeepCopy\bin\Debug\net5.0\DeepCopy.deps.json
+C:\Mentoring\Module 10 Serialization\BinarySerialization\DeepCopy\bin\Debug\net5.0\DeepCopy.runtimeconfig.json
+C:\Mentoring\Module 10 Serialization\BinarySerialization\DeepCopy\bin\Debug\net5.0\DeepCopy.runtimeconfig.dev.json
+C:\Mentoring\Module 10 Serialization\BinarySerialization\DeepCopy\bin\Debug\net5.0\DeepCopy.dll
+C:\Mentoring\Module 10 Serialization\BinarySerialization\DeepCopy\bin\Debug\net5.0\ref\DeepCopy.dll
+C:\Mentoring\Module 10 Serialization\BinarySerialization\DeepCopy\bin\Debug\net5.0\DeepCopy.pdb
+C:\Mentoring\Module 10 Serialization\BinarySerialization\DeepCopy\obj\Debug\net5.0\DeepCopy.csproj.AssemblyReference.cache
+C:\Mentoring\Module 10 Serialization\BinarySerialization\DeepCopy\obj\Debug\net5.0\DeepCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mentoring\Module 10 Serialization\BinarySerialization\DeepCopy\obj\Debug\net5.0\DeepCopy.AssemblyInfoInputs.cache
+C:\Mentoring\Module 10 Serialization\BinarySerialization\DeepCopy\obj\Debug\net5.0\DeepCopy.AssemblyInfo.cs
+C:\Mentoring\Module 10 Serialization\BinarySerialization\DeepCopy\obj\Debug\net5.0\DeepCopy.csproj.CoreCompileInputs.cache
+C:\Mentoring\Module 10 Serialization\BinarySerialization\DeepCopy\obj\Debug\net5.0\DeepCopy.dll
+C:\Mentoring\Module 10 Serialization\BinarySerialization\DeepCopy\obj\Debug\net5.0\ref\DeepCopy.dll
+C:\Mentoring\Module 10 Serialization\BinarySerialization\DeepCopy\obj\Debug\net5.0\DeepCopy.pdb
+C:\Mentoring\Module 10 Serialization\BinarySerialization\DeepCopy\obj\Debug\net5.0\DeepCopy.genruntimeconfig.cache

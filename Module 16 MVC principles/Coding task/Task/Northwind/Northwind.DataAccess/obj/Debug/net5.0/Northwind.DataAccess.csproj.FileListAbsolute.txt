@@ -1,0 +1,14 @@
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.DataAccess\bin\Debug\net5.0\Northwind.DataAccess.deps.json
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.DataAccess\bin\Debug\net5.0\Northwind.DataAccess.dll
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.DataAccess\bin\Debug\net5.0\ref\Northwind.DataAccess.dll
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.DataAccess\bin\Debug\net5.0\Northwind.DataAccess.pdb
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.AssemblyInfo.cs
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.dll
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.DataAccess\obj\Debug\net5.0\ref\Northwind.DataAccess.dll
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.pdb
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.DataAccess\bin\Debug\net5.0\Northwind.DataAccess.runtimeconfig.json
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.DataAccess\bin\Debug\net5.0\Northwind.DataAccess.runtimeconfig.dev.json
+C:\Mentoring\Module 16 MVC principles\Coding task\Task\Northwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.genruntimeconfig.cache

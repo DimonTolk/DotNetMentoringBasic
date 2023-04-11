@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Northwind.DAL/1.0.0": {
+        "runtime": {
+          "Northwind.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Northwind.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

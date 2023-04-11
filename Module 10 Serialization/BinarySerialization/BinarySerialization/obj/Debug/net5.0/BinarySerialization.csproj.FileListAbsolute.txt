@@ -1,0 +1,16 @@
+C:\Mentoring\Module 10 Serialization\BinarySerialization\BinarySerialization\bin\Debug\net5.0\BinarySerialization.exe
+C:\Mentoring\Module 10 Serialization\BinarySerialization\BinarySerialization\bin\Debug\net5.0\BinarySerialization.deps.json
+C:\Mentoring\Module 10 Serialization\BinarySerialization\BinarySerialization\bin\Debug\net5.0\BinarySerialization.runtimeconfig.json
+C:\Mentoring\Module 10 Serialization\BinarySerialization\BinarySerialization\bin\Debug\net5.0\BinarySerialization.runtimeconfig.dev.json
+C:\Mentoring\Module 10 Serialization\BinarySerialization\BinarySerialization\bin\Debug\net5.0\BinarySerialization.dll
+C:\Mentoring\Module 10 Serialization\BinarySerialization\BinarySerialization\bin\Debug\net5.0\ref\BinarySerialization.dll
+C:\Mentoring\Module 10 Serialization\BinarySerialization\BinarySerialization\bin\Debug\net5.0\BinarySerialization.pdb
+C:\Mentoring\Module 10 Serialization\BinarySerialization\BinarySerialization\obj\Debug\net5.0\BinarySerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mentoring\Module 10 Serialization\BinarySerialization\BinarySerialization\obj\Debug\net5.0\BinarySerialization.AssemblyInfoInputs.cache
+C:\Mentoring\Module 10 Serialization\BinarySerialization\BinarySerialization\obj\Debug\net5.0\BinarySerialization.AssemblyInfo.cs
+C:\Mentoring\Module 10 Serialization\BinarySerialization\BinarySerialization\obj\Debug\net5.0\BinarySerialization.csproj.CoreCompileInputs.cache
+C:\Mentoring\Module 10 Serialization\BinarySerialization\BinarySerialization\obj\Debug\net5.0\BinarySerialization.dll
+C:\Mentoring\Module 10 Serialization\BinarySerialization\BinarySerialization\obj\Debug\net5.0\ref\BinarySerialization.dll
+C:\Mentoring\Module 10 Serialization\BinarySerialization\BinarySerialization\obj\Debug\net5.0\BinarySerialization.pdb
+C:\Mentoring\Module 10 Serialization\BinarySerialization\BinarySerialization\obj\Debug\net5.0\BinarySerialization.genruntimeconfig.cache
+C:\Mentoring\Module 10 Serialization\BinarySerialization\BinarySerialization\obj\Debug\net5.0\BinarySerialization.csproj.AssemblyReference.cache

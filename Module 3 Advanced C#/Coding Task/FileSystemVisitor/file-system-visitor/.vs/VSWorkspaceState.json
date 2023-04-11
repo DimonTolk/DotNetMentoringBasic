@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FileSystemVisitor.Tests",
+    "\\FileSystemVisitorInfrastructure",
+    "\\FileSystemVisitorInfrastructure\\FileSystemVisitorEventArgs"
+  ],
+  "SelectedNode": "\\FileSystemVisitorInfrastructure\\FileSystemVisitorEventArgs\\DirectoryFoundEventArgs.cs",
+  "PreviewInSolutionExplorer": false
+}

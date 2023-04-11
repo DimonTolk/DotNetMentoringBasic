@@ -1,0 +1,16 @@
+C:\Mentoring\Module 10 Serialization\BinarySerialization\OwnSerializer\bin\Debug\net5.0\OwnSerializer.exe
+C:\Mentoring\Module 10 Serialization\BinarySerialization\OwnSerializer\bin\Debug\net5.0\OwnSerializer.deps.json
+C:\Mentoring\Module 10 Serialization\BinarySerialization\OwnSerializer\bin\Debug\net5.0\OwnSerializer.runtimeconfig.json
+C:\Mentoring\Module 10 Serialization\BinarySerialization\OwnSerializer\bin\Debug\net5.0\OwnSerializer.runtimeconfig.dev.json
+C:\Mentoring\Module 10 Serialization\BinarySerialization\OwnSerializer\bin\Debug\net5.0\OwnSerializer.dll
+C:\Mentoring\Module 10 Serialization\BinarySerialization\OwnSerializer\bin\Debug\net5.0\ref\OwnSerializer.dll
+C:\Mentoring\Module 10 Serialization\BinarySerialization\OwnSerializer\bin\Debug\net5.0\OwnSerializer.pdb
+C:\Mentoring\Module 10 Serialization\BinarySerialization\OwnSerializer\obj\Debug\net5.0\OwnSerializer.csproj.AssemblyReference.cache
+C:\Mentoring\Module 10 Serialization\BinarySerialization\OwnSerializer\obj\Debug\net5.0\OwnSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mentoring\Module 10 Serialization\BinarySerialization\OwnSerializer\obj\Debug\net5.0\OwnSerializer.AssemblyInfoInputs.cache
+C:\Mentoring\Module 10 Serialization\BinarySerialization\OwnSerializer\obj\Debug\net5.0\OwnSerializer.AssemblyInfo.cs
+C:\Mentoring\Module 10 Serialization\BinarySerialization\OwnSerializer\obj\Debug\net5.0\OwnSerializer.csproj.CoreCompileInputs.cache
+C:\Mentoring\Module 10 Serialization\BinarySerialization\OwnSerializer\obj\Debug\net5.0\OwnSerializer.dll
+C:\Mentoring\Module 10 Serialization\BinarySerialization\OwnSerializer\obj\Debug\net5.0\ref\OwnSerializer.dll
+C:\Mentoring\Module 10 Serialization\BinarySerialization\OwnSerializer\obj\Debug\net5.0\OwnSerializer.pdb
+C:\Mentoring\Module 10 Serialization\BinarySerialization\OwnSerializer\obj\Debug\net5.0\OwnSerializer.genruntimeconfig.cache

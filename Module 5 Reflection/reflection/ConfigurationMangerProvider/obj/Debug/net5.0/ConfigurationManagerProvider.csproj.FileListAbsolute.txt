@@ -1,0 +1,14 @@
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigurationMangerProvider\bin\Debug\net5.0\ConfigurationManagerProvider.deps.json
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigurationMangerProvider\bin\Debug\net5.0\ConfigurationManagerProvider.dll
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigurationMangerProvider\bin\Debug\net5.0\ref\ConfigurationManagerProvider.dll
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigurationMangerProvider\bin\Debug\net5.0\ConfigurationManagerProvider.pdb
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigurationMangerProvider\bin\Debug\net5.0\ConfigProvider.dll
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigurationMangerProvider\bin\Debug\net5.0\ConfigProvider.pdb
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigurationMangerProvider\obj\Debug\net5.0\ConfigurationManagerProvider.csproj.AssemblyReference.cache
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigurationMangerProvider\obj\Debug\net5.0\ConfigurationManagerProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigurationMangerProvider\obj\Debug\net5.0\ConfigurationManagerProvider.AssemblyInfoInputs.cache
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigurationMangerProvider\obj\Debug\net5.0\ConfigurationManagerProvider.AssemblyInfo.cs
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigurationMangerProvider\obj\Debug\net5.0\ConfigurationManagerProvider.csproj.CoreCompileInputs.cache
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigurationMangerProvider\obj\Debug\net5.0\ConfigurationManagerProvider.dll
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigurationMangerProvider\obj\Debug\net5.0\ref\ConfigurationManagerProvider.dll
+C:\Mentoring\Module 5 Reflection\Reflection\ConfigurationMangerProvider\obj\Debug\net5.0\ConfigurationManagerProvider.pdb

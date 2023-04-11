@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FileSystemVisitor.Console/1.0.0": {
+        "dependencies": {
+          "FileSystemVisitor.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "FileSystemVisitor.Console.dll": {}
+        }
+      },
+      "FileSystemVisitor.Infrastructure/1.0.0": {
+        "runtime": {
+          "FileSystemVisitor.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileSystemVisitor.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FileSystemVisitor.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
